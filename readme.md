@@ -2,7 +2,7 @@
 
 #### Web developer since 2012, from Rio Grande do Sul, Brazil.
 
--   🏢  I'm currently working as Senior Front End Developer at  [**Zallpy Digital**](https://zallpy.com/), as an outsourcer at  [**Unicred do Brasil**](https://www.unicred.com.br/).
+-   🏢  I'm currently working as Senior Front End Developer at <img width="19px" height="19px" src="/assets/zallpy.jpg" alt="Zallpy Digital">  [**Zallpy Digital**](https://zallpy.com/), as an outsourcer at <img width="19px" height="19px" src="/assets/unicred.png" alt="Unicred do Brasil">  [**Unicred do Brasil**](https://www.unicred.com.br/).
 -   🌱  I’m currently learning React Native, NodeJS, Testing libraries.
 -    ⚡️  Fun fact: I'm a huge fan of Neil Gaiman's Sandman.
 
@@ -10,7 +10,7 @@
 
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yurischulz&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yurischulz&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
