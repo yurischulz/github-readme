@@ -2,7 +2,7 @@
 
 #### Web developer since 2012, from Rio Grande do Sul, Brazil.
 
--   🏢  I'm currently working as Senior Front End Developer at  [**Zallpy Digital**](https://zallpy.com/), as an outsourced at  [**Unicred do Brasil**](https://www.unicred.com.br/) in the Cards team.
+-   🏢  I'm currently working as Senior Front End Developer at  [**Zallpy Digital**](https://zallpy.com/), as an outsourced at  [**Unicred do Brasil**](https://www.unicred.com.br/).
 -   🌱  I’m currently learning React Native, NodeJS, Testing libraries.
 -    ⚡️  Fun fact: I'm a huge fan of Neil Gaiman's Sandman.
 
