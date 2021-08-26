@@ -13,7 +13,7 @@
   <a />
 </span>
 <span>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 </span>
 
 
