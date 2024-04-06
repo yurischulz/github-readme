@@ -1,9 +1,8 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-#### Web developer since 2012, from Rio Grande do Sul, Brazil.
+#### I've been a web developer since 2012, hailing from Rio Grande do Sul, Brazil.
 
--   🏢  I'm currently working as Front End Developer at  [**Zallpy Digital**](https://zallpy.com/), as an outsourced at  [**Unicred do Brasil**](https://www.unicred.com.br/).
--   🌱  I’m currently learning React Native, NodeJS, Testing libraries.
+-   🏢 Currently, I'm working as a Tech Lead and Front End Developer at [**Zallpy Digital**](https://zallpy.com/), stationed at [**Unicred do Brasil**](https://www.unicred.com.br/).
 
 ## Github Stats
 
@@ -27,5 +26,3 @@
   <img align="center" alt="WebPack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg">
   <img align="center" alt="Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
 </div>
-
-### See bellow my coolests repos:
